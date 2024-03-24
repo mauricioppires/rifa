@@ -20,4 +20,5 @@ Se nao tiver quaisquer desses modulos, basta instalar com o pip:
 # Arquivo: rifa.py
 - Programa para fazer o sorteio;
 
-* Colocar todos os arquivos em um diretorio de sua escolha.
+# Diretorio
+- Colocar todos os arquivos em um diretorio de sua escolha.
